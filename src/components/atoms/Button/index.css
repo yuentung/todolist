@@ -1,0 +1,28 @@
+.btn {
+	height: 50px;
+	border: none;
+	border-radius: 15px;
+	background-color: #a4a3f2;
+	box-shadow: 0 0 6px rgba(0, 0, 0, 0.24);
+	color: #ffffff;
+	font-weight: bold;
+	cursor: pointer;
+	outline: none;
+}
+.btn:hover {
+	background-color: #a192ff;
+}
+.btn-add {
+	width: 98%;
+	margin: 0 auto;
+}
+.btn-save {
+	width: 49%;
+}
+.btn-remove {
+	width: 49%;
+	background-color: #c2c2c2;
+}
+.btn-remove:hover {
+	background-color: #adadad;
+}

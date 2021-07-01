@@ -1,0 +1,14 @@
+.textField {
+	width: 98%;
+	height: 60px;
+	padding: 10px 20px;
+	border: none;
+	border-radius: 15px;
+	margin: 0 auto 15px;
+	box-shadow: 0 0 6px rgba(0, 0, 0, 0.24);
+	color: #656464;
+	font-size: 18px;
+	white-space: nowrap;
+	overflow: auto;
+	outline: none;
+}

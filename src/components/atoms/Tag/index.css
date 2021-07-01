@@ -1,0 +1,27 @@
+.tag {
+	display: block;
+	padding: 3px 8px;
+	border-radius: 15px;
+	margin-right: 10px;
+	color: #ffffff;
+	font-size: 8px;
+	font-weight: bold;
+	text-align: center;
+	cursor: pointer;
+}
+.circle {
+	display: block;
+	width: 35px;
+	height: 35px;
+	border-radius: 50%;
+	margin-right: 10px;
+	margin-bottom: 10px;
+	text-align: center;
+	font-size: 20px;
+	line-height: 35px;
+	font-weight: bold;
+	cursor: pointer;
+}
+.tag {
+	font-size: 12px;
+}
